@@ -1,0 +1,6 @@
+C:\Users\tamng\Documents\SharpDevelop Projects\sothuc\sothuc\bin\Debug\sothuc.exe.config
+C:\Users\tamng\Documents\SharpDevelop Projects\sothuc\sothuc\bin\Debug\sothuc.exe
+C:\Users\tamng\Documents\SharpDevelop Projects\sothuc\sothuc\bin\Debug\sothuc.pdb
+C:\Users\tamng\Documents\SharpDevelop Projects\sothuc\sothuc\obj\Debug\sothuc.csprojResolveAssemblyReference.cache
+C:\Users\tamng\Documents\SharpDevelop Projects\sothuc\sothuc\obj\Debug\sothuc.exe
+C:\Users\tamng\Documents\SharpDevelop Projects\sothuc\sothuc\obj\Debug\sothuc.pdb

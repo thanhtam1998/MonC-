@@ -1,0 +1,6 @@
+C:\Users\tamng\Documents\SharpDevelop Projects\Matran\Matran\bin\Debug\Matran.exe.config
+C:\Users\tamng\Documents\SharpDevelop Projects\Matran\Matran\bin\Debug\Matran.exe
+C:\Users\tamng\Documents\SharpDevelop Projects\Matran\Matran\bin\Debug\Matran.pdb
+C:\Users\tamng\Documents\SharpDevelop Projects\Matran\Matran\obj\Debug\Matran.csprojResolveAssemblyReference.cache
+C:\Users\tamng\Documents\SharpDevelop Projects\Matran\Matran\obj\Debug\Matran.exe
+C:\Users\tamng\Documents\SharpDevelop Projects\Matran\Matran\obj\Debug\Matran.pdb

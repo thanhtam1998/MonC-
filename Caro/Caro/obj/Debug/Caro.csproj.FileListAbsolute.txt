@@ -1,0 +1,6 @@
+C:\Users\tamng\Documents\SharpDevelop Projects\Caro\Caro\bin\Debug\Caro.exe.config
+C:\Users\tamng\Documents\SharpDevelop Projects\Caro\Caro\bin\Debug\Caro.exe
+C:\Users\tamng\Documents\SharpDevelop Projects\Caro\Caro\bin\Debug\Caro.pdb
+C:\Users\tamng\Documents\SharpDevelop Projects\Caro\Caro\obj\Debug\Caro.csprojResolveAssemblyReference.cache
+C:\Users\tamng\Documents\SharpDevelop Projects\Caro\Caro\obj\Debug\Caro.exe
+C:\Users\tamng\Documents\SharpDevelop Projects\Caro\Caro\obj\Debug\Caro.pdb

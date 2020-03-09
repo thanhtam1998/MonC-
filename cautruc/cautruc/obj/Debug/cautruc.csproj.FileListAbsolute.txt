@@ -1,0 +1,6 @@
+C:\Users\tamng\Documents\SharpDevelop Projects\cautruc\cautruc\bin\Debug\cautruc.exe.config
+C:\Users\tamng\Documents\SharpDevelop Projects\cautruc\cautruc\bin\Debug\cautruc.exe
+C:\Users\tamng\Documents\SharpDevelop Projects\cautruc\cautruc\bin\Debug\cautruc.pdb
+C:\Users\tamng\Documents\SharpDevelop Projects\cautruc\cautruc\obj\Debug\cautruc.csprojResolveAssemblyReference.cache
+C:\Users\tamng\Documents\SharpDevelop Projects\cautruc\cautruc\obj\Debug\cautruc.exe
+C:\Users\tamng\Documents\SharpDevelop Projects\cautruc\cautruc\obj\Debug\cautruc.pdb

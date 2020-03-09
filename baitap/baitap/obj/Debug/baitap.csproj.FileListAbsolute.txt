@@ -1,0 +1,6 @@
+C:\Users\tamng\Documents\SharpDevelop Projects\baitap\baitap\obj\Debug\baitap.csprojResolveAssemblyReference.cache
+C:\Users\tamng\Documents\SharpDevelop Projects\baitap\baitap\bin\Debug\baitap.exe.config
+C:\Users\tamng\Documents\SharpDevelop Projects\baitap\baitap\bin\Debug\baitap.exe
+C:\Users\tamng\Documents\SharpDevelop Projects\baitap\baitap\bin\Debug\baitap.pdb
+C:\Users\tamng\Documents\SharpDevelop Projects\baitap\baitap\obj\Debug\baitap.exe
+C:\Users\tamng\Documents\SharpDevelop Projects\baitap\baitap\obj\Debug\baitap.pdb

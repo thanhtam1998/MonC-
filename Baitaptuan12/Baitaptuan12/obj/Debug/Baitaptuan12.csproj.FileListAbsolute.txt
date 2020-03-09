@@ -1,0 +1,6 @@
+C:\Users\tamng\Documents\SharpDevelop Projects\Baitaptuan12\Baitaptuan12\obj\Debug\Baitaptuan12.csprojResolveAssemblyReference.cache
+C:\Users\tamng\Documents\SharpDevelop Projects\Baitaptuan12\Baitaptuan12\bin\Debug\Baitaptuan12.exe.config
+C:\Users\tamng\Documents\SharpDevelop Projects\Baitaptuan12\Baitaptuan12\bin\Debug\Baitaptuan12.exe
+C:\Users\tamng\Documents\SharpDevelop Projects\Baitaptuan12\Baitaptuan12\bin\Debug\Baitaptuan12.pdb
+C:\Users\tamng\Documents\SharpDevelop Projects\Baitaptuan12\Baitaptuan12\obj\Debug\Baitaptuan12.exe
+C:\Users\tamng\Documents\SharpDevelop Projects\Baitaptuan12\Baitaptuan12\obj\Debug\Baitaptuan12.pdb

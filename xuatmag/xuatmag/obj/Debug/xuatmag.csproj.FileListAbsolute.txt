@@ -1,0 +1,6 @@
+C:\Users\tamng\Documents\SharpDevelop Projects\xuatmag\xuatmag\bin\Debug\xuatmag.exe.config
+C:\Users\tamng\Documents\SharpDevelop Projects\xuatmag\xuatmag\bin\Debug\xuatmag.exe
+C:\Users\tamng\Documents\SharpDevelop Projects\xuatmag\xuatmag\bin\Debug\xuatmag.pdb
+C:\Users\tamng\Documents\SharpDevelop Projects\xuatmag\xuatmag\obj\Debug\xuatmag.csprojResolveAssemblyReference.cache
+C:\Users\tamng\Documents\SharpDevelop Projects\xuatmag\xuatmag\obj\Debug\xuatmag.exe
+C:\Users\tamng\Documents\SharpDevelop Projects\xuatmag\xuatmag\obj\Debug\xuatmag.pdb

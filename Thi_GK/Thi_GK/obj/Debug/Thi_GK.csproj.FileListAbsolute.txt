@@ -1,0 +1,6 @@
+C:\Users\tamng\Documents\SharpDevelop Projects\Thi_GK\Thi_GK\obj\Debug\Thi_GK.csprojResolveAssemblyReference.cache
+C:\Users\tamng\Documents\SharpDevelop Projects\Thi_GK\Thi_GK\bin\Debug\Thi_GK.exe.config
+C:\Users\tamng\Documents\SharpDevelop Projects\Thi_GK\Thi_GK\bin\Debug\Thi_GK.exe
+C:\Users\tamng\Documents\SharpDevelop Projects\Thi_GK\Thi_GK\bin\Debug\Thi_GK.pdb
+C:\Users\tamng\Documents\SharpDevelop Projects\Thi_GK\Thi_GK\obj\Debug\Thi_GK.exe
+C:\Users\tamng\Documents\SharpDevelop Projects\Thi_GK\Thi_GK\obj\Debug\Thi_GK.pdb

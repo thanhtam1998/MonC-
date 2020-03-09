@@ -1,0 +1,6 @@
+C:\Users\tamng\Documents\SharpDevelop Projects\baitapc#\baitapc#\obj\Debug\baitapc#.csprojResolveAssemblyReference.cache
+C:\Users\tamng\Documents\SharpDevelop Projects\baitapc#\baitapc#\bin\Debug\baitapc#.exe.config
+C:\Users\tamng\Documents\SharpDevelop Projects\baitapc#\baitapc#\bin\Debug\baitapc#.exe
+C:\Users\tamng\Documents\SharpDevelop Projects\baitapc#\baitapc#\bin\Debug\baitapc#.pdb
+C:\Users\tamng\Documents\SharpDevelop Projects\baitapc#\baitapc#\obj\Debug\baitapc#.exe
+C:\Users\tamng\Documents\SharpDevelop Projects\baitapc#\baitapc#\obj\Debug\baitapc#.pdb

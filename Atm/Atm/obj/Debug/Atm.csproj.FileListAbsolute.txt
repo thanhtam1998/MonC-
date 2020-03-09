@@ -1,0 +1,6 @@
+C:\Users\tamng\Documents\SharpDevelop Projects\Atm\Atm\obj\Debug\Atm.csprojResolveAssemblyReference.cache
+C:\Users\tamng\Documents\SharpDevelop Projects\Atm\Atm\bin\Debug\Atm.exe.config
+C:\Users\tamng\Documents\SharpDevelop Projects\Atm\Atm\bin\Debug\Atm.exe
+C:\Users\tamng\Documents\SharpDevelop Projects\Atm\Atm\bin\Debug\Atm.pdb
+C:\Users\tamng\Documents\SharpDevelop Projects\Atm\Atm\obj\Debug\Atm.exe
+C:\Users\tamng\Documents\SharpDevelop Projects\Atm\Atm\obj\Debug\Atm.pdb

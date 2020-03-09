@@ -1,0 +1,6 @@
+C:\Users\tamng\Documents\SharpDevelop Projects\Thi CKbai2\Thi CKbai2\obj\Debug\Thi CKbai2.csprojResolveAssemblyReference.cache
+C:\Users\tamng\Documents\SharpDevelop Projects\Thi CKbai2\Thi CKbai2\bin\Debug\Thi CKbai2.exe.config
+C:\Users\tamng\Documents\SharpDevelop Projects\Thi CKbai2\Thi CKbai2\bin\Debug\Thi CKbai2.exe
+C:\Users\tamng\Documents\SharpDevelop Projects\Thi CKbai2\Thi CKbai2\bin\Debug\Thi CKbai2.pdb
+C:\Users\tamng\Documents\SharpDevelop Projects\Thi CKbai2\Thi CKbai2\obj\Debug\Thi CKbai2.exe
+C:\Users\tamng\Documents\SharpDevelop Projects\Thi CKbai2\Thi CKbai2\obj\Debug\Thi CKbai2.pdb

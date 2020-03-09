@@ -1,0 +1,6 @@
+C:\Users\tamng\Documents\SharpDevelop Projects\Matranvuongandtamgiac\Matranvuongandtamgiac\bin\Debug\Matranvuongandtamgiac.exe.config
+C:\Users\tamng\Documents\SharpDevelop Projects\Matranvuongandtamgiac\Matranvuongandtamgiac\bin\Debug\Matranvuongandtamgiac.exe
+C:\Users\tamng\Documents\SharpDevelop Projects\Matranvuongandtamgiac\Matranvuongandtamgiac\bin\Debug\Matranvuongandtamgiac.pdb
+C:\Users\tamng\Documents\SharpDevelop Projects\Matranvuongandtamgiac\Matranvuongandtamgiac\obj\Debug\Matranvuongandtamgiac.csprojResolveAssemblyReference.cache
+C:\Users\tamng\Documents\SharpDevelop Projects\Matranvuongandtamgiac\Matranvuongandtamgiac\obj\Debug\Matranvuongandtamgiac.exe
+C:\Users\tamng\Documents\SharpDevelop Projects\Matranvuongandtamgiac\Matranvuongandtamgiac\obj\Debug\Matranvuongandtamgiac.pdb

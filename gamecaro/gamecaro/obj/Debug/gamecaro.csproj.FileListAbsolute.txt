@@ -1,0 +1,6 @@
+C:\Users\tamng\Documents\SharpDevelop Projects\gamecaro\gamecaro\obj\Debug\gamecaro.csprojResolveAssemblyReference.cache
+C:\Users\tamng\Documents\SharpDevelop Projects\gamecaro\gamecaro\bin\Debug\gamecaro.exe.config
+C:\Users\tamng\Documents\SharpDevelop Projects\gamecaro\gamecaro\bin\Debug\gamecaro.exe
+C:\Users\tamng\Documents\SharpDevelop Projects\gamecaro\gamecaro\bin\Debug\gamecaro.pdb
+C:\Users\tamng\Documents\SharpDevelop Projects\gamecaro\gamecaro\obj\Debug\gamecaro.exe
+C:\Users\tamng\Documents\SharpDevelop Projects\gamecaro\gamecaro\obj\Debug\gamecaro.pdb
